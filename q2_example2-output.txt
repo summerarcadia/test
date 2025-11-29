@@ -1,0 +1,1 @@
+{'the': 279, 'pressure': 189, 'blood': 140, 'of': 137, 'in': 127, 'and': 115, 'is': 98, 'to': 87, 'a': 55, 'arterial': 43}
